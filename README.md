@@ -1,5 +1,8 @@
 # git-flow-check
 
+ブランチできない？
+タグができない？
+
 ```
 git flow release start 1.0.0 -> ここは初回のみ
 # バージョン番号の更新
